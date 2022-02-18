@@ -6,4 +6,5 @@ Foi utilizado o interpretador e editor de algoritmo VISUALG na versão 3.0.7.0 c
 Para "rodar" os algoritmos do desafio, basta abrir o Visualg, copiar o código de cada desafio, colar no corpo do Visualg e pressionar a tecla F9 (para executar o algoritmo).
 
 Entendo que para maior sucesso deveria ter criado os algoritmos na linguagem de programação JAVA, porém estou ciente que possuo a lógica de programação e a Capgemini com toda sua expertise irá capacitar-me para o JAVA e juntos conquistaremos o sucesso de vários projetos.
+
 Grato pela oportunidade!
